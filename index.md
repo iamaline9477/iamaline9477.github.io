@@ -7,10 +7,7 @@
 
 ## WHO AM I?
 
-ALINE
-XMUMATH-NJUCS-CtripPM
-
-
+ALINE  XMUMATH-NJUCS-CtripPM  
 -You can also find me in:
 - [Weibo](https://weibo.com/iamaline)
 - [Douban](https://www.douban.com/people/iamaline/)
