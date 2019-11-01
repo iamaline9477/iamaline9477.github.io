@@ -7,12 +7,12 @@
 <br>
 ## WHO AM I?
 ![head](http://chuantu.xyz/t6/702/1572600912x1031866013.jpg)<br>
-ALINE<br>
+Aline<br>
 XMUMath-NJUCS-CtripPM<br>
-A lazy Everyman
+One lazy Everyman
 <br>
 <br>
-## YOU CAN ALSO FIND ME IN
+## YOU CAN ALSO FIND ME HERE
 - [Weibo](https://weibo.com/iamaline)
 - [Douban](https://www.douban.com/people/iamaline/)
 - [Wechat Office Account:@懒鬼宋](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
