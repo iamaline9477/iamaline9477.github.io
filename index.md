@@ -8,8 +8,8 @@
 ## WHO AM I?
 ![head](http://chuantu.xyz/t6/702/1572600912x1031866013.jpg)<br>
 ALINE<br>
-XMUMATH-NJUCS-CtripPM<br>
-A lazy ordinary person
+XMUMath-NJUCS-CtripPM<br>
+A lazy Everyman
 <br>
 <br>
 ## YOU CAN ALSO FIND ME IN
