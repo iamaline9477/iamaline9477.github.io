@@ -4,10 +4,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Who AM I?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+XMUMATH-NJUCS-CtripPM
 
 ```markdown
-Syntax highlighted code block
+You can also find me in:
+[-Weibo](https://weibo.com/iamaline)
+[-Douban](https://www.douban.com/people/iamaline/)
+[-Wechat Office Account](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
 
 # Header 1
 ## Header 2
