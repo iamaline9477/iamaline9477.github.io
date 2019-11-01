@@ -12,4 +12,4 @@ XMUMATH-NJUCS-CtripPM
 -You can also find me in:
 - [Weibo](https://weibo.com/iamaline)
 - [Douban](https://www.douban.com/people/iamaline/)
-- [Wechat Office Account:@懒鬼宋](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
+- [Wechat Office Account @懒鬼宋](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
