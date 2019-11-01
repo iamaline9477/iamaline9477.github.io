@@ -5,8 +5,6 @@
 [[python]剑指Offer-从尾到头打印链表](https://blog.csdn.net/sinat_30324577/article/details/88583422)  
 <br>
 <br>
-<br>
-<br>
 ## WHO AM I?
 ![head](http://chuantu.xyz/t6/702/1572600912x1031866013.jpg)<br>
 ALINE<br>
