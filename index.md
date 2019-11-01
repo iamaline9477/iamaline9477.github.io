@@ -7,7 +7,7 @@
 
 
 ## WHO AM I?
-![头像](https://github.com/iamaline9477/iamaline9477.github.io/blob/master/head.jpg)
+![head](http://chuantu.xyz/t6/702/1572600912x1031866013.jpg)
 ALINE<br>
 XMUMATH-NJUCS-CtripPM  
 -You can also find me in:
