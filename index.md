@@ -2,14 +2,14 @@ You can use the [editor on GitHub](https://github.com/iamaline9477/iamaline9477.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Who AM I?
+### WHO AM I?
 
 XMUMATH-NJUCS-CtripPM
 
 -You can also find me in:
 - [Weibo](https://weibo.com/iamaline)
 - [Douban](https://www.douban.com/people/iamaline/)
-- [Wechat Office Account](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
+- [Wechat Office Account:@懒鬼宋](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
 
 # Header 1
 ## Header 2
