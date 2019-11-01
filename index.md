@@ -6,7 +6,7 @@
 <br>
 <br>
 ## WHO AM I?
-![head](http://chuantu.xyz/t6/702/1572600912x1031866013.jpg)<br>
+![head](http://chuantu.xyz/t6/702/1572601242x2890191825.gif)<br>
 Aline<br>
 XMUMath-NJUCS-CtripPM<br>
 One lazy Everyman
