@@ -8,8 +8,10 @@
 ## WHO AM I?
 ![head](http://chuantu.xyz/t6/702/1572601242x2890191825.gif)<br>
 ALINE<br>
-XMUMATH-NJUCS-CtripPM <br> 
--You can also find me in:
+XMUMATH-NJUCS-CtripPM
+<br>
+<br>
+## YOU CAN ALSO FIND ME IN:
 - [Weibo](https://weibo.com/iamaline)
 - [Douban](https://www.douban.com/people/iamaline/)
 - [Wechat Office Account @懒鬼宋](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
