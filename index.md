@@ -8,6 +8,7 @@ XMUMATH-NJUCS-CtripPM
 
 ```markdown
 You can also find me in:
+[链接到百度](https://www.baidu.com "百度") 
 [Weibo](https://weibo.com/iamaline)
 [Douban](https://www.douban.com/people/iamaline/)
 [Wechat Office Account](https://mp.weixin.qq.com/s/7jr7ON34G3vPYdV7ie6kwA)
